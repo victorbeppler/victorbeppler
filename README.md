@@ -35,4 +35,4 @@ Brasileiro.
   </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorbeppler&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victorbeppler)](https://github.com/anuraghazra/github-readme-stats)
