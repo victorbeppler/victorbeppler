@@ -13,10 +13,10 @@ Brasileiro.
    <!--START_SECTION:waka-->
 
 ```text
-Total Time: 30 hrs 35 mins
+Total Time: 36 hrs 2 mins
 
-JavaScript   26 hrs 24 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.84 %
-Other        4 hrs 13 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.12 %
+JavaScript   31 hrs 42 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   77.81 %
+Other        4 hrs 42 mins   ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.56 %
 ```
 
 <!--END_SECTION:waka-->
