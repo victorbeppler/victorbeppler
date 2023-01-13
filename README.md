@@ -5,11 +5,11 @@ Faculdade: Bacharelado em sistemas da informação.
 Idade: 22 Anos.
 Brasileiro.
 
-
+https://github-readme-stats-victorbeppler.vercel.app/
 <div align="center">
   <a href="https://github.com/victorbeppler">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbeppler&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.victorbeppler.vercel.app/api?username=victorbeppler&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.victorbeppler.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
    <!--START_SECTION:waka-->
 
 ```text
