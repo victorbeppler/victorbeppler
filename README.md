@@ -4,11 +4,9 @@ Desenvolvedor de JavaScipt - Backend.
 Faculdade: Bacharelado em sistemas da informação.
 Idade: 22 Anos.
 Brasileiro.
-
 <div align="center">
   <a href="https://github.com/victorbeppler">
-`${[![Victor's GitHub stats-Dark](https://github-readme-stats-victorbeppler.vercel.app/api?username=victorbeppler&show_icons=true&theme=dark#gh-dark-mode-only)]}`
-    (https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  <img height="180em" src=https://github-readme-stats-victorbeppler.vercel.app/api?username=victorbeppler&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
    <!--START_SECTION:waka-->
 
