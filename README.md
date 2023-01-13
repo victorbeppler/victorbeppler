@@ -7,17 +7,9 @@ Brasileiro.
 
 <div align="center">
   <a href="https://github.com/victorbeppler">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbeppler&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api?username=victorbeppler&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
   <!--START_SECTION:waka-->
-    ```text
-      Total Time: 44 hrs 47 mins
-      JavaScript   28 hrs 45 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.70 %
-      TypeScript   10 hrs 37 mins  ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.16 %
-      JSON         3 hrs 11 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.94 %
-      CSS          1 hr 20 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.91 %
-      Other        1 hr 4 mins     ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.34 %
-    ```
   <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
