@@ -10,7 +10,17 @@ Brasileiro.
   <img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api?username=victorbeppler&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+Total Time: 46 hrs 54 mins
+
+JavaScript   30 hrs 37 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.82 %
+TypeScript   10 hrs 36 mins  ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.10 %
+JSON         3 hrs 20 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.97 %
+Other        1 hr 4 mins     ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.23 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
