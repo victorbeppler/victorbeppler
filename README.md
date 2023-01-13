@@ -10,6 +10,7 @@ Brasileiro.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
    <!--START_SECTION:waka-->
 ```text
+    -
 Total Time: 44 hrs 47 mins
 
 JavaScript   28 hrs 45 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.70 %
