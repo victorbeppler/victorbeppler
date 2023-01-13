@@ -8,7 +8,7 @@ Brasileiro.
 <div align="center">
 <a href="https://github.com/victorbeppler">
 <img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api?username=victorbeppler&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&theme=dark"/>
 <!--START_SECTION:waka-->
 
 ```text
