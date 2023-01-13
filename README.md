@@ -4,22 +4,19 @@ Desenvolvedor de JavaScipt - Backend.
 Faculdade: Bacharelado em sistemas da informação.
 Idade: 22 Anos.
 Brasileiro.
+
 <div align="center">
   <a href="https://github.com/victorbeppler">
-  <img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api?username=victorbeppler&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbeppler&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
-   <!--START_SECTION:waka-->
-```text
-    -
+    ```text
 Total Time: 44 hrs 47 mins
-
 JavaScript   28 hrs 45 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.70 %
 TypeScript   10 hrs 37 mins  ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.16 %
 JSON         3 hrs 11 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.94 %
 CSS          1 hr 20 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.91 %
 Other        1 hr 4 mins     ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.34 %
 ```
-
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
@@ -44,6 +41,4 @@ Other        1 hr 4 mins     ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <a href = "mailto:victorhugobeppler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-beppler-pereira-a012a7166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-
 ![Snake animation](https://github.com/victorbeppler/victorbeppler/blob/output/github-contribution-grid-snake.svg)
-
