@@ -7,8 +7,8 @@ Brasileiro.
 
 <div align="center">
 <a href="https://github.com/victorbeppler">
-<img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api?username=victorbeppler&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height="180em" src="https://github-readme-stats-victorbeppler.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbeppler&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
 <!--START_SECTION:waka-->
 
 ```text
@@ -44,3 +44,4 @@ Other        1 hr 29 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <a href = "mailto:victorhugobeppler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/victor-hugo-beppler-pereira-a012a7166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+![Snake animation](https://github.com/victorbeppler/victorbeppler/blob/output/github-contribution-grid-snake.svg)
