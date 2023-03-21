@@ -12,7 +12,7 @@ Brasileiro.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 45 mins
+Total Time: 3 hrs 44 mins
 
 JavaScript   3 hrs 41 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.50 %
 Other        2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.94 %
