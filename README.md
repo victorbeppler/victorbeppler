@@ -14,6 +14,7 @@ Portfólio: [victorbeppler.dev](victorbeppler.dev)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeppler&layout=compact&langs_count=7&theme=dark"/>
 <!--START_SECTION:waka-->
 
+    
 ```text
 Total Time: 9 hrs 19 mins
 
@@ -25,6 +26,7 @@ TSConfig     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+    
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
