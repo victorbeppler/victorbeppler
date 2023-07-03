@@ -1,11 +1,22 @@
 Olá, eu sou o Victor Hugo. Seja bem vindo!
 
-Desenvolvedor de JavaScipt - Backend.
+Software Developer.
 Faculdade: Bacharelado em sistemas da informação.
 Idade: 23 Anos.
 Brasileiro.
 
-Atualmente venho desenvolvendo o meu espírito de liderança, criando integrações entre softwares mais especificamente ERP e CRM, auxiliando tanto equipe de desenvolvimento quanto a equipe de consultoria com a visão integrada do negócio, revisando os códigos, dicas de melhorias, criando documentações, UML e fluxos BPMN.
+Atualmente, estou aprimorando minhas habilidades de liderança, pois sou responsável por coordenar uma equipe de desenvolvedores. Meus principais objetivos são estabelecer a gestão e delegação de tarefas, fornecer orientação e realizar revisões de código utilizando a plataforma GitLab e o versionamento Git. Além disso, busco padronizar o desenvolvimento de projetos, incluindo a estruturação e documentação.
+Além das minhas responsabilidades de liderança, também estou envolvido no desenvolvimento ativo de projetos como desenvolvedor.
+
+Durante esse processo, adquiri conhecimentos em várias áreas, como:
+* Servidor: Tenho experiência na criação de ambientes virtuais, principalmente no sistema operacional  Ubuntu Server 18.04 e versões posteriores. Possuo conhecimentos em configuração de servidores web, como o Nginx, e também na implementação de certificados SSL.  
+* Docker: Utilizo containers para publicar integrações criadas, o que me permite gerenciar ambientes isolados e facilitar a implantação de projetos.  
+* Node.js: Possuo experiência na criação de estruturas de backend utilizando o Node.js, aproveitando seus recursos para desenvolver aplicações eficientes e escaláveis.  
+* Express: Utilizo o framework Express para agilizar o desenvolvimento de aplicativos web, aproveitando sua simplicidade e flexibilidade.  
+* React: Tenho conhecimento na criação de interfaces de usuário interativas e responsivas utilizando o React, permitindo a construção de experiências de usuário ricas e dinâmicas.  
+* MongoDB e MySQL: Trabalhei com esses bancos de dados, adquirindo habilidades em sua configuração, modelagem de dados e manipulação de informações.
+Estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar novos desafios e entregar resultados de qualidade em meus projetos.
+Fico à disposição para uma conversa.
 
 Portfólio: [victorbeppler.dev](victorbeppler.dev)
 
