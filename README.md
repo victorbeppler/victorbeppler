@@ -1,4 +1,4 @@
-[Read this in Portuguese](./README_PT.md)
+[Leia em Português](./README_PT.md)
 
 
 # Hello! I'm Victor Hugo! 👋
