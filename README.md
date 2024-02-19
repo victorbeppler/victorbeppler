@@ -12,11 +12,11 @@ Como líder de equipe de desenvolvimento e engenheiro de software sênior, me es
 ## 🔧 Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript (ECMAScript 6+), TypeScript.
-- **Front-end:** React, Styled-components, MUI (Material UI).
+- **Front-end:** React, Styled-components, MUI (Material UI), Tailwind CSS.
 - **Back-end:** Node.js, Express, Nest.js.
 - **Banco de Dados:** MongoDB, MySQL, Postgres.
-- **Infraestrutura:** AWS, Docker, Nginx, certificados SSL.
-- **Versionamento e CI/CD:** Git, GitLab.
+- **Infraestrutura:** AWS, Docker, Nginx, certificados SSL, Ubuntu.
+- **Versionamento e CI/CD:** Git, GitLab, GitHub.
 
 ## 🌱 Atualmente Estou Aprendendo
 
