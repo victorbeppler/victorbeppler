@@ -1,14 +1,15 @@
 # Olá, eu sou o Victor Hugo! 👋
 
-👨‍💻 **Desenvolvedor de Software Sênior**
+👨‍💻 **Desenvolvedor de Software**
 
 - **Localização:** Brasileiro, Balneário Camboriú - SC.
 - **Educação:** Bacharelado em Sistemas de Informação.
 - **Idade:** 24 anos.
 - **Faculdade:** Instituto Federal Campus Camboriú, Santa Catarina.
 
-Como líder de equipe de desenvolvimento e engenheiro de software sênior, me especializei em coordenar equipes para a realização de integrações complexas entre sistemas e no desenvolvimento de soluções inovadoras utilizando uma ampla gama de tecnologias. Atualmente, estou focado em melhorar minhas habilidades de liderança e na gestão eficaz de projetos.
+Olá! Sou Victor Hugo, entusiasta da tecnologia e formado em Sistemas de Informação pelo Instituto Federal Campus Camboriú. Minha experiência profissional começou em uma startup, onde me especializei no desenvolvimento de soluções SaaS e na realização de integrações complexas com sistemas como Totvs e Anima, utilizando linguagens como JavaScript, React, e TypeScript, além de aprofundar em bancos de dados MongoDB e PostgreSQL. Destaquei-me também no uso de metodologias ágeis e ferramentas como AWS e GraphQL, buscando sempre a excelência e inovação em meus projetos.
 
+Atualmente, busco novas oportunidades para contribuir com meus conhecimentos e experiência, trazendo determinação e uma visão ampla como desenvolvedor de software. Estou confiante de que posso agregar valor e crescer junto a equipes dinâmicas e inovadoras, prontamente me adaptando a novos desafios e tecnologias.
 ## 🔧 Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript (ECMAScript 6+), TypeScript.
@@ -18,7 +19,7 @@ Como líder de equipe de desenvolvimento e engenheiro de software sênior, me es
 - **Infraestrutura:** AWS, Docker, Nginx, certificados SSL, Ubuntu.
 - **Versionamento e CI/CD:** Git, GitLab, GitHub.
 
-## 🌱 Atualmente Estou Aprendendo
+## 🌱 Atualmente Aprendendo
 
 - Aprimoramento contínuo em GraphQL e AWS Amplify.
 - Profundamento em práticas de CI/CD e testes automatizados.
