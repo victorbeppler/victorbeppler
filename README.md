@@ -1,41 +1,45 @@
-# Olá, eu sou o Victor Hugo! 👋
+[Read this in Portuguese](./README_PT.md)
 
-👨‍💻 **Desenvolvedor de Software**
 
-- **Localização:** Brasileiro, Balneário Camboriú - SC.
-- **Educação:** Bacharelado em Sistemas de Informação.
-- **Idade:** 24 anos.
-- **Faculdade:** Instituto Federal Campus Camboriú, Santa Catarina.
+# Hello! I'm Victor Hugo! 👋
 
-Olá! Sou Victor Hugo, entusiasta da tecnologia e estudante em Sistemas de Informação pelo Instituto Federal Campus Camboriú. Minha experiência profissional começou em uma empresa especializada em soluções Zoho, onde me especializei no desenvolvimento de soluções SaaS e na realização de integrações complexas com sistemas como Totvs e Anima, utilizando linguagens como JavaScript, React, e TypeScript, além de aprofundar em bancos de dados MongoDB e PostgreSQL. Destaquei-me também no uso de metodologias ágeis e ferramentas como AWS e GraphQL, buscando sempre a excelência e inovação em meus projetos.
+## Senior Software Developer
 
-Atualmente, busco novas oportunidades para contribuir com meus conhecimentos e experiência, trazendo determinação e uma visão ampla como desenvolvedor de software. Estou confiante de que posso agregar valor e crescer junto a equipes dinâmicas e inovadoras, prontamente me adaptando a novos desafios e tecnologias.
+- **Location:** Balneário Camboriú, SC, Brazil.
+- **Education:** Bachelor's in Information Systems, Federal Institute Campus Camboriú, Santa Catarina.
+- **Age:** 24 years old.
 
-## 🔧 Tecnologias & Ferramentas
+In my professional journey, I had the opportunity to lead a development team, coordinating complex system integrations and developing innovative solutions using a wide range of technologies. Currently, I'm focused on enhancing my leadership skills and effective project management.
 
-- **Linguagens:** JavaScript (ECMAScript 6+), TypeScript.
-- **Front-end:** React, Styled-components, MUI (Material UI), Tailwind CSS.
+## 🔧 Technologies & Tools
+
+- **Languages:** JavaScript (ECMAScript 6+), TypeScript.
+- **Front-end:** React, Styled-components, MUI (Material UI).
 - **Back-end:** Node.js, Express, Nest.js.
-- **Banco de Dados:** MongoDB, MySQL, Postgres.
-- **Infraestrutura:** AWS, Docker, Nginx, certificados SSL, Ubuntu.
-- **Versionamento e CI/CD:** Git, GitLab, GitHub.
+- **Databases:** MongoDB, MySQL, Postgres.
+- **Infrastructure:** AWS, Docker, Nginx, SSL certificates.
+- **Versioning and CI/CD:** Git, GitLab.
 
-## 🌱 Atualmente Aprendendo
+## 🌱 I'm Currently Learning
 
-- Aprimoramento contínuo em GraphQL e AWS Amplify.
-- Profundamento em práticas de CI/CD e testes automatizados.
+- Continuous improvement in GraphQL and AWS Amplify.
+- Deepening CI/CD practices and automated testing.
 
-## 💼 Experiências Recentes
+## 💼 Recent Experiences
 
-- **Wrapt, San Francisco - CA:** Desenvolvedor de Software Sênior. Desenvolvi aplicações focadas na gestão e padronização de embalagens usando JavaScript, TypeScript, React, GraphQL, e AWS.
-- **Hyper, Rio de Janeiro - Brasil:** Desenvolvedor de Software. Contribuí para o desenvolvimento de uma plataforma educacional voltada ao ensino médio.
 
-## 📫 Como me encontrar
+- **Stor7, Balneário Camboriú - Brazil:** Senior Software Development Engineer. Developed an application using JavaScript (ECMAScript 6+), TypeScript, React, MUI (Material UI), GraphQL, Amplify, AWS, and Postgres. Engaged in the development of software for the management and standardization of packaging.
+- **Wrapt, San Francisco - CA:** Senior Software Developer. Developed applications focused on packaging management using JavaScript, TypeScript, React, GraphQL, and AWS.
+- **Hyper, Rio de Janeiro - Brazil:** Software Developer. Contributed to the development of an educational platform for high school.
 
-- **Portfólio:** [victorbeppler.dev](http://victorbeppler.dev)
+## 📫 How to Reach Me
+
+- **Portfolio:** [victorbeppler.dev](http://victorbeppler.dev)
 - **LinkedIn:** [Victor Hugo Beppler Pereira](https://www.linkedin.com/in/victor-hugo-beppler-pereira-a012a7166/)
 - **Instagram:** [@victorhbeppler](https://www.instagram.com/victorhbeppler)
 - **Email:** [victorhugobeppler@gmail.com](mailto:victorhugobeppler@gmail.com)
+
+
 
 
 
