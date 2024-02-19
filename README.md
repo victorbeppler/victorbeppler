@@ -7,9 +7,10 @@
 - **Idade:** 24 anos.
 - **Faculdade:** Instituto Federal Campus Camboriú, Santa Catarina.
 
-Olá! Sou Victor Hugo, entusiasta da tecnologia e formado em Sistemas de Informação pelo Instituto Federal Campus Camboriú. Minha experiência profissional começou em uma startup, onde me especializei no desenvolvimento de soluções SaaS e na realização de integrações complexas com sistemas como Totvs e Anima, utilizando linguagens como JavaScript, React, e TypeScript, além de aprofundar em bancos de dados MongoDB e PostgreSQL. Destaquei-me também no uso de metodologias ágeis e ferramentas como AWS e GraphQL, buscando sempre a excelência e inovação em meus projetos.
+Olá! Sou Victor Hugo, entusiasta da tecnologia e estudante em Sistemas de Informação pelo Instituto Federal Campus Camboriú. Minha experiência profissional começou em uma empresa especializada em soluções Zoho, onde me especializei no desenvolvimento de soluções SaaS e na realização de integrações complexas com sistemas como Totvs e Anima, utilizando linguagens como JavaScript, React, e TypeScript, além de aprofundar em bancos de dados MongoDB e PostgreSQL. Destaquei-me também no uso de metodologias ágeis e ferramentas como AWS e GraphQL, buscando sempre a excelência e inovação em meus projetos.
 
 Atualmente, busco novas oportunidades para contribuir com meus conhecimentos e experiência, trazendo determinação e uma visão ampla como desenvolvedor de software. Estou confiante de que posso agregar valor e crescer junto a equipes dinâmicas e inovadoras, prontamente me adaptando a novos desafios e tecnologias.
+
 ## 🔧 Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript (ECMAScript 6+), TypeScript.
