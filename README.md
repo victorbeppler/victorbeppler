@@ -1,24 +1,41 @@
-Olá, eu sou o Victor Hugo. Seja bem vindo!
+# Olá, eu sou o Victor Hugo! 👋
 
-Software Developer.
-Faculdade: Bacharelado em sistemas da informação.
-Idade: 23 Anos.
-Brasileiro.
+👨‍💻 **Desenvolvedor de Software Sênior**
 
-Atualmente, estou aprimorando minhas habilidades de liderança, pois sou responsável por coordenar uma equipe de desenvolvedores. Meus principais objetivos são estabelecer a gestão e delegação de tarefas, fornecer orientação e realizar revisões de código utilizando a plataforma GitLab e o versionamento Git. Além disso, busco padronizar o desenvolvimento de projetos, incluindo a estruturação e documentação.
-Além das minhas responsabilidades de liderança, também estou envolvido no desenvolvimento ativo de projetos como desenvolvedor.
+- **Localização:** Brasileiro, Balneário Camboriú - SC.
+- **Educação:** Bacharelado em Sistemas de Informação.
+- **Idade:** 24 anos.
+- **Faculdade:** Instituto Federal Campus Camboriú, Santa Catarina.
 
-Durante esse processo, adquiri conhecimentos em várias áreas, como:
-* Servidor: Tenho experiência na criação de ambientes virtuais, principalmente no sistema operacional  Ubuntu Server 18.04 e versões posteriores. Possuo conhecimentos em configuração de servidores web, como o Nginx, e também na implementação de certificados SSL.  
-* Docker: Utilizo containers para publicar integrações criadas, o que me permite gerenciar ambientes isolados e facilitar a implantação de projetos.  
-* Node.js: Possuo experiência na criação de estruturas de backend utilizando o Node.js, aproveitando seus recursos para desenvolver aplicações eficientes e escaláveis.  
-* Express: Utilizo o framework Express para agilizar o desenvolvimento de aplicativos web, aproveitando sua simplicidade e flexibilidade.  
-* React: Tenho conhecimento na criação de interfaces de usuário interativas e responsivas utilizando o React, permitindo a construção de experiências de usuário ricas e dinâmicas.  
-* MongoDB e MySQL: Trabalhei com esses bancos de dados, adquirindo habilidades em sua configuração, modelagem de dados e manipulação de informações.
-Estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar novos desafios e entregar resultados de qualidade em meus projetos.
-Fico à disposição para uma conversa.
+Como líder de equipe de desenvolvimento e engenheiro de software sênior, me especializei em coordenar equipes para a realização de integrações complexas entre sistemas e no desenvolvimento de soluções inovadoras utilizando uma ampla gama de tecnologias. Atualmente, estou focado em melhorar minhas habilidades de liderança e na gestão eficaz de projetos.
 
-Portfólio: [victorbeppler.dev](victorbeppler.dev)
+## 🔧 Tecnologias & Ferramentas
+
+- **Linguagens:** JavaScript (ECMAScript 6+), TypeScript.
+- **Front-end:** React, Styled-components, MUI (Material UI).
+- **Back-end:** Node.js, Express, Nest.js.
+- **Banco de Dados:** MongoDB, MySQL, Postgres.
+- **Infraestrutura:** AWS, Docker, Nginx, certificados SSL.
+- **Versionamento e CI/CD:** Git, GitLab.
+
+## 🌱 Atualmente Estou Aprendendo
+
+- Aprimoramento contínuo em GraphQL e AWS Amplify.
+- Profundamento em práticas de CI/CD e testes automatizados.
+
+## 💼 Experiências Recentes
+
+- **Wrapt, San Francisco - CA:** Desenvolvedor de Software Sênior. Desenvolvi aplicações focadas na gestão e padronização de embalagens usando JavaScript, TypeScript, React, GraphQL, e AWS.
+- **Hyper, Rio de Janeiro - Brasil:** Desenvolvedor de Software. Contribuí para o desenvolvimento de uma plataforma educacional voltada ao ensino médio.
+
+## 📫 Como me encontrar
+
+- **Portfólio:** [victorbeppler.dev](http://victorbeppler.dev)
+- **LinkedIn:** [Victor Hugo Beppler Pereira](https://www.linkedin.com/in/victor-hugo-beppler-pereira-a012a7166/)
+- **Instagram:** [@victorhbeppler](https://www.instagram.com/victorhbeppler)
+- **Email:** [victorhugobeppler@gmail.com](mailto:victorhugobeppler@gmail.com)
+
+
 
 
 <div align="center">
@@ -52,7 +69,6 @@ JSON              3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
