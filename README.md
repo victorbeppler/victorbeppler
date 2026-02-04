@@ -7,7 +7,7 @@
 
 - **Location:** Balneário Camboriú, SC, Brazil.
 - **Education:** Bachelor's in Information Systems, Federal Institute Campus Camboriú, Santa Catarina.
-- **Age:** 24 years old.
+- **Age:** 25 years old.
 
 In my professional journey, I had the opportunity to lead a development team, coordinating complex system integrations and developing innovative solutions using a wide range of technologies. Currently, I'm focused on enhancing my leadership skills and effective project management.
 
