@@ -6,7 +6,7 @@
 
 - **Localização:** Balneário Camboriú, SC, Brasil.
 - **Formação:** Bacharelado em Sistemas de Informação, Instituto Federal Campus Camboriú, Santa Catarina.
-- **Idade:** 24 anos.
+- **Idade:** 25 anos.
 
 Em minha trajetória profissional, tive a oportunidade de atuar como líder de equipe de desenvolvimento, coordenando integrações complexas entre sistemas e desenvolvendo soluções inovadoras com uma ampla gama de tecnologias. Atualmente, estou focado em aprimorar minhas habilidades de liderança e na gestão eficaz de projetos.
 
